@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 } else if (attempts > 3) {
                     attempts--;
                     textView.setText(String.valueOf(attempts));
-                } else if (attempts <= 3 && attempts > 1) {
+                } else if (attempts > 1) {
                     attempts--;
                     textView.setText(String.valueOf(attempts));
                     textView.setTextColor(Color.parseColor("#FF0000"));
