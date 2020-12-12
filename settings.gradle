@@ -1,0 +1,3 @@
+include ':app:getrandomnumber'
+include ':app'
+rootProject.name = "l4"

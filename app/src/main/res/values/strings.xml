@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">l4</string>
+    <string name="show_label_msg">Отгадай!</string>
+    <string name="show_label_hint">Задумано двузначное число.</string>
+    <string name="btn_guess">Отгадать</string>
+    <string name="show_attempts">5</string>
+    <string name="btn_restart">Рестарт</string>
+    <string name="win_str">Поздравляю!</string>
+    <string name="lose_str">Пройгрыш</string>
+    <string name="str_hint">Подсказки: \n</string>
+</resources>
